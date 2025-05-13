@@ -508,7 +508,7 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 - **You cannot cop bait.**  
   Driving around the police station to get them to chase you or general harassment of police is prohibited.
 
-- **Do NOT Attempt to rob Downed Players:**  
+- **Do NOT Attempt to rob Downed Players**  
 
 - **You cannot interfere in robberies.**  
   For example, if X is doing a Pacific Standard heist, you cannot enter the bank without permission from X party. You are also not allowed to interfere under the reasoning of "revenge"; this includes, but is not limited to, interfering because your friend was taken hostage.
