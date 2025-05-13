@@ -115,7 +115,7 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 - **There is a zero-tolerance policy for Racism, Bestiality, Suicide, or Rape RP.**
 
 - **Criminal activities** (kidnapping, killing, robbing, etc.) **are NOT allowed in Green Zones.**  
-  Green Zones include government properties (e.g., PD Station, Pillbox, City Hall) and civilian job sites (e.g., mines).
+  Green Zones include Legion Square Garage, Government properties (e.g., PD Station, Pillbox, City Hall) and civilian job sites (e.g., mines).
 
 
 
@@ -508,10 +508,7 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 - **You cannot cop bait.**  
   Driving around the police station to get them to chase you or general harassment of police is prohibited.
 
-- **Robbing Downed Players:**  
-  To rob a downed player you must have been involved in, or be in the gang that was involved in, the scene. If you come across a downed player in your travels you may not rob them. Robbing of a player's inventory items is allowed but must be roleplayed correctly.  
-  - Cannot take more than 50% of their inventory.  
-  - NO ROBBING PEOPLE ON CRUTCHES.
+- **Do NOT Attempt to rob Downed Players:**  
 
 - **You cannot interfere in robberies.**  
   For example, if X is doing a Pacific Standard heist, you cannot enter the bank without permission from X party. You are also not allowed to interfere under the reasoning of "revenge"; this includes, but is not limited to, interfering because your friend was taken hostage.
@@ -566,7 +563,7 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 - **Players can only be robbed of their belongings and money on them,** not their bank account.
 
 - **NO POCKET WIPES:**  
-  Players cannot steal every item from a single player's pocket; items must make sense for the RP. No more than 50% of inventory and no playtime shop guns.
+  Players cannot steal every item from a single player's pocket; items must make sense for the RP. No more than 50% of inventory.
 
 - **All items in vehicles are fair game, including playtime shop guns.**
 
@@ -739,7 +736,7 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 
 - You have a Duty to Act-an obligation to provide care to patients when it is within your capabilities.
 
-- Crutches implemented on local civilians at 15 minutes; ON DUTY PD & EMS to 5 minutes.
+- Crutches implemented on local civilians at 10 minutes; ON DUTY PD & EMS to 3 minutes.
 
 - You can use the ambulance to transport patients to destinations; do not use the ambulance as a taxi. Civilian "ride along" is permitted if approved by EMS leadership.
 
