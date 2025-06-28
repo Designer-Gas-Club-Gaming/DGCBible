@@ -178,6 +178,9 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 
 # Server Rules
 
+- **No Macros or External Scripting:**
+  The use of macros, auto-clickers, or any external scripting (including Python or similar languages) to automate or enhance gameplay is not allowed. (This is a bannable offense.)
+
 - **Players are required to always stay in-character while on the server.**  
   No OOC conversation will happen in-game unless explicitly asked by an admin.
 
