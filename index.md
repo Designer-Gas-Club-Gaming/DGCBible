@@ -492,7 +492,54 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 - **Do not use a place of business or an apartment/house to avoid conflict.**  
   You cannot create a scene then go somewhere to lock the doors; it is unsportsmanlike and interferes with the scene, so this will be considered FRP.
 
+- **No Chain Snatching Without a Chain**  
+   Your gang cannot attempt to snatch chains if your gang does not have a chain to snatch.
 
+- **Gang Representation Required**  
+   You must wear something representing your gang at all times. Never deny your gang affiliation to avoid consequences.
+
+
+
+## Turf War Rules
+
+- **No Shooting Into the Bubble**  
+   During turf wars, players are not allowed to shoot into the bubble area.
+
+- **No Last-Second Bubble Rushing**  
+   Do not wait outside and rush into the bubble area during the final seconds.
+
+- **No Rooftops or Balconies**  
+   Players are prohibited from using rooftops or balconies during turf wars.
+
+- **No Bush Camping**  
+   Hiding or camping in bushes is not allowed.
+
+- **Engaging While on Crutches**  
+   If you are on crutches but still engaging in callouts, trash talk, or similar actions, you can be shot.
+
+- **Follow Gang Section Rules**  
+   All participants must adhere to the rules outlined in the Gang section of the server rules.
+
+- **Radio Use Restricted to Gangs**  
+   Only gang members may use the radio during turf wars.
+
+- **No Driving Cars Into Turfs**  
+    Vehicles are not allowed to be driven into turf areas during turf wars.
+
+- **Turf Wars Are Mini-Games**  
+    Turf wars are considered mini-games and should not lead to extended RP situations. Complete the turf war and leave unless involved in a related scenario.
+
+- **15-Minute Cooldown Between Turfs**  
+    Do not attack another turf if you have seen the defending gang just participated in a turf war. A 15-minute cooldown applies.
+
+- **No Cop Baiting**  
+    Do not intentionally provoke police during turf wars.
+
+- **No /callmedic Until Turf War Ends**  
+    You may not use the /callmedic command until the turf war is officially over.
+
+- **Leader Responsibility**  
+    All gang leaders are responsible for ensuring their members know and follow these rules.
 
 # Criminal
 
