@@ -115,7 +115,7 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 - **There is a zero-tolerance policy for Racism, Bestiality, Suicide, or Rape RP.**
 
 - **Criminal activities** (kidnapping, killing, robbing, etc.) **are NOT allowed in Green Zones.**  
-  Green Zones include Legion Square Garage, Government properties (e.g., PD Station, Pillbox, City Hall) and civilian job sites (e.g., mines).
+  Green Zones include Legion Square Garage, The PvP Arena, Government properties (e.g., PD Station, Pillbox, City Hall) and civilian job sites (e.g., mines).
 
 
 
