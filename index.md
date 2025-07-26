@@ -632,8 +632,6 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 
 - **Criminals can no longer "shoot out" cameras in bank robberies.**
 
-- **Up to 6 criminals/gang members are allowed to commit crime together at one time** (drug deals, kidnappings, gang activities, house robberies, etc.).
-
 - **There must be:**
   1. 1 officer to hold up a shop owner and NPC muggings.
   2. 2 officers on duty to do a jewelry/store robbery.
