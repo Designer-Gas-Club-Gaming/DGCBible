@@ -364,7 +364,7 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
   You must value your life similar to the way you do your own life in real life. For example, you must not engage in a gunfight for the fun of it, knowing that you would not do it IRL. At all times, you must value your life as if it were your last. If you are at a clear disadvantage (for example, a gun pointed to the back of your head while you are looking the other direction), you must comply with their demands.
 
 - **If you are outnumbered 3 to 1 you must comply.**  
-  This does not mean that you do not have an option to try and escape. When possible and in a correct situation, you have the option to try and escape.
+  This does not mean that you do not have an option to try and escape. When possible and in a correct situation (such as being in a vehicle with a direct escape route), you have the option to try and escape. If you are on foot you must comply.
 
 - A bad example of an attempt to escape is if you are being held hostage in front of a bank and decide to run away even though the person has a firearm ready.
 
