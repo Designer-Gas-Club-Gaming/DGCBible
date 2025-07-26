@@ -12,7 +12,7 @@
 ## Staff Communication
 
 - **Do _not_ DM or ping staff for support or server questions.**  
-  Open a support ticket instead. If you are in-game, use the `/ticket` command.
+  Open a support ticket instead. If you are in-game, use the `/report` command.
 
 ## Behavior & Conduct
 
