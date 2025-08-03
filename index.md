@@ -115,7 +115,9 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 - **There is a zero-tolerance policy for Racism, Bestiality, Suicide, or Rape RP.**
 
 - **Criminal activities** (kidnapping, killing, robbing, etc.) **are NOT allowed in Green Zones.**  
-  Green Zones include Legion Square Garage, The PvP Arena, Government properties (e.g., PD Station, Pillbox, City Hall) and civilian job sites (e.g., mines).
+  Green Zones include Legion Square Garage, The PvP Arena, Government properties (e.g., PD Stations, Hospitals, City Hall) and civilian job sites (e.g., mines).
+
+- **You may not scam players for vehicles.** You may only scam players for miscellaneous in game items (guns, joints, armor, backpacks, etc). No pocket/ bank wipes.
 
 
 
@@ -174,6 +176,8 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 - **Staff have the final say in what is allowed.**  
   They have the right to remove posts as they see fit.
 
+- **WL is an OOC Chat** - please separate.. stop asking for help from admin as well, open a ticket or t/report in city
+
 
 
 # Server Rules
@@ -219,6 +223,14 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 
 - **No loitering** in front of PD, Hospitals, middle of the road, or being AFK in public.
 
+- Cannot change walk style while on crutch - will be considered exploiting
+
+- Do not use emotes to exploit.. please RP the situations correctly. (Ex: using them to get in and out of rooms, while in cuffs, etc)
+
+- No talking while dead.
+
+- No pressing X while dead to move.
+
 
 
 # Fail RP
@@ -254,7 +266,7 @@ Treat your life as if you have no respawns left. Your life is important, so prot
   Any game exploits should be reported to developers if found. This includes any billing system if players are attempting to disguise their identity.
 
 - **Information that you hear through walls is not allowed to be used in roleplay.**  
-  (This is a game mechanics issue.) You may only use information if your character is in the same room or hall as those other characters.
+  (This is a game mechanics issue.) You may only use information if your character is in the same room or hall as those other characters. You may use informtion you hear around a corner outdoors.
 
 - **Communication is required before any gun fight or attack.**  
   This includes phone messages/instapic/Birdy with an apparent meaning or outright threat. This must be properly communicated/understood by the opposing players and not just sent out moments before an attack.
@@ -303,8 +315,8 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 # Fear For Life
 
 - **Fear RP:**  
-  If your character is held at gunpoint, you need to fear for your life. Don't run away; play out the scenario with your captors.  
-  *(Guns must be present, not just yelling you have guns behind tinted windows or in your pocket.)*
+  If your character is held at gunpoint, you need to fear for your life. Don’t run away (if on foot); play out the scenario with your captors.  
+  *(Must be on foot. Guns must be present and pointed at captor showing clear intent to rob, not just yelling you have a gun in your pockets.)*
 
 - **Choosing not to Fear RP:**  
   If you decide not to fear for your life because you want to play your character as a fearless loose cannon-if you run away or fight back with guns pointed at you and end up losing the fight-you are required to go into an automatic 24-hour coma.  
@@ -364,7 +376,7 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
   You must value your life similar to the way you do your own life in real life. For example, you must not engage in a gunfight for the fun of it, knowing that you would not do it IRL. At all times, you must value your life as if it were your last. If you are at a clear disadvantage (for example, a gun pointed to the back of your head while you are looking the other direction), you must comply with their demands.
 
 - **If you are outnumbered 3 to 1 you must comply.**  
-  This does not mean that you do not have an option to try and escape. When possible and in a correct situation (such as being in a vehicle with a direct escape route), you have the option to try and escape. If you are on foot you must comply.
+  This does not mean that you do not have an option to try and escape. When possible and in a correct situation (such as being in a vehicle with a direct escape route), you have the option to try and escape. If you are on foot you must comply. (If you are outnumbered 3 to 1 and both parties have weapons out you must still comply. While outnumbered 3 to 1 you may not pull a weapon out if a robber has a weapon pointed at you, this will be considered Failure to Fear.
 
 - A bad example of an attempt to escape is if you are being held hostage in front of a bank and decide to run away even though the person has a firearm ready.
 
@@ -420,8 +432,23 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 - **Shooting outside of cars while driving at high rates of speed is not allowed.**  
   Drivebys can only be done with RP prior AND going 20mph. Shooting from car to car can only be done at 50mph or lower.
 
-- **It is against the rules to remove plates on cars from the extras menu to perform crime or try to hide illegal acts from police.**  
-  We are aware that some cars have bumper/plate for cosmetic reasons (show cars) and that's fine. Using the extras menu to remove the plate is against our rules and will result in a strike. It's OP and unfair to both civ players & officers (especially since the plate remover script was removed).
+
+
+# Vehicle Robbery Rule – Box-In Situations
+
+- If your vehicle is fully surrounded on all sides by armed robbers (on foot) and you are completely boxed in, you must fear for your life, even if you are in an armored or bulletproof vehicle. You are expected to comply with the robbery under Fear RP.
+
+- However, if one or more sides of your vehicle remain unblocked, you may attempt to escape at your own risk. If you choose to flee and are killed or commit VDM (Vehicle Deathmatch) in the process, it will be considered Fail RP (FRP), and you will owe the robbers a percentage of your inventory (to be negotiated or determined by staff).
+
+- **Key Points:**
+
+- Full box-in = Must Fear RP. Natural Industructible Barriers ( such as buildings and walls) may be used to box vehicles in.
+
+- Open escape = May flee, but with consequences if failed.
+
+- VDMing robbers to escape is not allowed.
+
+- FRP penalty applies for failed escape attempts
 
 
 
@@ -443,6 +470,7 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 - **No gang jumping:**  
   If you leave a gang you have to wait 2 weeks to join a different gang. If at that time you join another gang, you can't gang jump for another month.
 
+- All gang violence should be avoided in green zones (i.e., PD stations, hospitals, and civ job sites) and community-posted event locations.
 
 
 # Gang Leader
@@ -466,7 +494,7 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 
 - **Gang conflict may only start over real roleplay reasons.**
 
-- **All gang violence should be avoided in green zones (i.e., PD / Pillbox) and community-posted event locations.**  
+- **All gang violence should be avoided in green zones (i.e., PD stations, hospitals, and civ job sites) and community-posted event locations.**  
   This also includes civilian job locations, illegal spots (labs, materials fields, black markets).
 
 - **If a fight is initiated,** it must be taken outside of green zones and both parties must agree (fist fights only, no other weapons).
@@ -632,7 +660,7 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
 
 - **Criminals can no longer "shoot out" cameras in bank robberies.**
 
-- **Up to 6 criminals/gang members are allowed to commit crime together at one time** (drug deals, kidnappings, gang activities, house robberies, etc.).
+- **Up to 6 criminals/gang members are allowed to commit crime together at one time** (store robberies, bank robberies).
 
 - **There must be:**
   1. 1 officer to hold up a shop owner and NPC muggings.
@@ -652,9 +680,6 @@ The **New Life Rule (NLR)** governs player behavior after incapacitation or deat
   Running away is failRP.
 
 - **If an officer responds to a gang battle event area, be prepared to be shot.**
-
-- **If you can't see the plate on the car or the car doesn't have a plate, the car can't be ID'd using the automatic license plate reader.**  
-  If a vehicle is found parked or impounded, police need to physically RP out checking VIN numbers to get plate numbers.
 
 - **If a player has a cop & family member/friend is in a gang, you cannot directly involve yourself in gang related investigations that involve your family member/friends.**  
   This would be considered meta/power gaming.
