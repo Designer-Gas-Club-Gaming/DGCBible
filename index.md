@@ -37,6 +37,35 @@
   - Even if nobody else is around, someone may show up at any time.
   - _Example:_ If you are in the DGC Discord general chat and talking to someone in-server, mute yourself or deafen to better immerse yourself in the roleplay scenario.
 
+## Prohibited Activities / Strict Access Regulations
+
+*We want to take a moment to make something crystal clear to everyone in our community.  
+DGC has worked hard to build a unique, safe, and enjoyable space for all of our players.  
+Every script, every update, every event, and every ounce of effort has been for the benefit of our players and the integrity of our city.*  
+
+*Unfortunately, there are communities out there that do not share those values.*  
+**Crysis RP** *and the people behind it have shown dishonesty, theft, and behavior that does not align with who we are at DGC.*  
+
+**👉 Our Policy is Simple:**  
+- If you are seen playing in **Crysis RP**, or associating with their **owners, staff, or community**, you will be **permanently removed** from DGC.  
+- You will **lose all assets, properties, and progress** tied to your account here.  
+- You will receive a **permanent ban** from our server, Discord, and community spaces.  
+- There will be **no appeals, no exceptions, and no second chances.****👉 Our Policy is Simple:**  
+- If you are seen playing in **Crysis RP**, or associating with their **owners, staff, or community**, you will be **permanently removed** from DGC.  
+- You will **lose all assets, properties, and progress** tied to your account here.  
+- You will receive a **permanent ban** from our server, Discord, and community spaces.  
+- There will be **no appeals, no exceptions, and no second chances.**
+
+This is not about controlling where you play — you are free to join any server.  
+But if you choose to associate with Crysis RP, you are choosing to leave DGC.  
+We will not allow their presence or influence in what we’ve built here.  
+
+We have **zero tolerance** for dishonesty, theft, or disloyalty.  
+Our priority will always be protecting **you, our loyal members**, and ensuring our community continues to grow in a positive and secure direction.  
+
+At the end of the day, this comes down to **respect and loyalty**.  
+If you stand with DGC, we welcome you with open arms.
+
 ## Ban Evasion
 
 - **Ban evasion will not be tolerated.**  
