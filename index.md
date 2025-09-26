@@ -211,7 +211,7 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 
 ### 🚫 Asset Transfer Rules 🚫
 
-* **Asset Dumping:**
+# * **Asset Dumping:**
   “Asset dumping” (transferring assets to another player or character) when planning to leave the server is not allowed.
 
 * **In-Character Reasoning Required:**
