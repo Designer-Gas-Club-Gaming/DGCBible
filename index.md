@@ -211,6 +211,20 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 
 # Server Rules
 
+### 🚫 Asset Transfer Rules 🚫
+
+* **Asset Dumping:**
+  “Asset dumping” (transferring assets to another player or character) when planning to leave the server is not allowed.
+
+* **In-Character Reasoning Required:**
+  Players may not transfer assets to another player without valid in-character reasoning. You must contact an admin before leaving.
+
+* **No Self-Transfers (Powergaming):**
+  Players are not allowed to transfer their own assets to their other personal characters. This is considered powergaming and is strictly prohibited.
+
+* **Lifetime Establishments:**
+  If you have purchased a **lifetime establishment** and decide to leave or quit the game, you may **not transfer the establishment or its assets to another player without staff approval**.
+
 - **No Macros or External Scripting:**
   The use of macros, auto-clickers, or any external scripting (including Python or similar languages) to automate or enhance gameplay is not allowed. (This is a bannable offense.)
 
@@ -219,11 +233,6 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 
 - **All characters MUST be custom characters; no default model ("Mr. Clean/Default Dan") characters will be allowed**  
   (unless using a default model as a Patreon backer to access the PED room).
-
-- **“Asset dumping" to another player or character, if you plan to leave the server, is not allowed.**  
-  Players can't transfer assets to another player without prior in-character reasoning. Please contact the admin before leaving.
-
-- Players are not allowed to transfer their own assets to their other personal characters (AKA Power gaming).
 
 - **No Dismemberment RP.**
 
