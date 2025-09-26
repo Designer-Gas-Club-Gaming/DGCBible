@@ -209,8 +209,6 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 
 
 
-# Server Rules
-
 ### 🚫 Asset Transfer Rules 🚫
 
 * **Asset Dumping:**
@@ -224,6 +222,8 @@ Treat your life as if you have no respawns left. Your life is important, so prot
 
 * **Lifetime Establishments:**
   If you have purchased a **lifetime establishment** and decide to leave or quit the game, you may **not transfer the establishment or its assets to another player without staff approval**.
+
+# Server Rules
 
 - **No Macros or External Scripting:**
   The use of macros, auto-clickers, or any external scripting (including Python or similar languages) to automate or enhance gameplay is not allowed. (This is a bannable offense.)
