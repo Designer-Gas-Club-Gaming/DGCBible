@@ -285,6 +285,7 @@ Treat your life as if you have no respawns left. Your life is important, so prot
     - Using any information learned on other characters and transferring it to other players by means of giving it back to yourself.  
     - Logging out before finishing a scenario when being forced into a 48-hour coma to avoid giving players your requested items.
 
+
 - **Players cannot drag PD vehicles once they've been grappled and instead must flee on foot if they intend to keep running.**
 
 - **RDM (Random Death Match) and/or VDM (Vehicle Death Match) against other players will not be tolerated.**
