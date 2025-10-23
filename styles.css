@@ -5,20 +5,24 @@ body {
     color: #fafafa;
 }
 .banner {
-    background: linear-gradient(180deg, #222 70%, #121212 100%);
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-top: 20px;
-    border-bottom: 6px solid #ffa500;
+  background: linear-gradient(180deg, #222 70%, #121212 100%);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 6px solid #ffa500;
 }
 .banner img {
-    max-width: 450px;
-    width: 100%;
-    height: auto;
-    filter: drop-shadow(0 8px 16px #000b);
-    margin-bottom: 15px;
+  max-width: 200px;
+  height: auto;
+  filter: drop-shadow(0 8px 16px #000b);
+  margin-bottom: 15px;
+}
+.social-buttons {
+  display: flex;
+  gap: 15px; /* spacing between buttons */
+  margin-top: 10px; /* space below the logo */
 }
 .content {
     max-width: 600px;
